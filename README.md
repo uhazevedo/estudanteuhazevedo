@@ -8,3 +8,6 @@ contatoarthuraz@gmial.com
 
 @alurastartestudante
 ![](https://media.tenor.com/BfdqhDlTQJoAAAAi/right-here-right-now-goal-celebration.gif)
+
+
+> Escrito por Me
