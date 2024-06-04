@@ -1,1 +1,10 @@
-# estudanteuhazevedo
+Meu nome é Arthur Azevedo
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+contatoarthuraz@gmial.com
+
+@alurastartestudante
+![](https://media.tenor.com/BfdqhDlTQJoAAAAi/right-here-right-now-goal-celebration.gif)
